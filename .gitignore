@@ -11,7 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
-*.md
+README-template.md
+style-guide.md
 design
 
 # Editor directories and files
